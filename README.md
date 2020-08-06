@@ -25,15 +25,15 @@
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-6-569582.png" />
 <img align="left" alt="C#" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqfYggFxoThNlXdNepiMwPp7nhkrUb00OyZg&usqp=CAU" />
 <img align="left" alt="C++" width="26px" src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png" />
-<img align="left" alt="Django" width="26px" src="https://files.readme.io/37fef53-django_logo_256x256.png" />
 <img align="left" alt="Python" width="26px" src="https://os.mbed.com/media/uploads/allankliu/python.png" />
 <img align="left" alt="Java" width="26px" src="https://mblayman.files.wordpress.com/2013/10/java-logo.jpg" />
 
 
 <br />
 
-### Tools
+### Frameworks/Tools
 <img align="left" alt="Flutter" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png" />
+<img align="left" alt="Django" width="26px" src="https://files.readme.io/37fef53-django_logo_256x256.png" />
 <img align="left" alt="AndroidStudio" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
 <img align="left" alt="Visual Studio " width="26px" src="https://miro.medium.com/max/256/1*Ht1208XXc0MhIIE4e0PHvg.png" />
 <img align="left" alt="Unity" width="26px" src="https://soundmacguy.files.wordpress.com/2018/03/unity1.png?w=256" />
