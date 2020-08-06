@@ -18,7 +18,7 @@
 <br />
 
 ### Languages
-<img align="left" alt="Flutter" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png" />
+<img align="left" alt="Dart" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/square_256/dart-logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -33,6 +33,7 @@
 <br />
 
 ### Tools
+<img align="left" alt="Flutter" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png" />
 <img align="left" alt="AndroidStudio" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
 <img align="left" alt="Visual Studio " width="26px" src="https://miro.medium.com/max/256/1*Ht1208XXc0MhIIE4e0PHvg.png" />
 <img align="left" alt="Unity" width="26px" src="https://soundmacguy.files.wordpress.com/2018/03/unity1.png?w=256" />
