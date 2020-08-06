@@ -10,7 +10,10 @@
 - :goal_net: Goals: COntribute more to Open-Source Projects...
 - 📫 How to reach me: Teymouri.arvin@gmail.com
 - ⚡ Fun fact: I have a black belt in Karate :japan: :punch:
-### Connect with me:
+
+<br />
+
+### Connect with me
 
 [<img align="left" alt="Arvint.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ArvinT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
