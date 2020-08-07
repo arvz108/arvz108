@@ -1,5 +1,4 @@
 ### Hi there!! 👋
-<img align="left" alt="Flutter" width="156px" src="https://static.wixstatic.com/media/f82bad_c8128d639b45445ba64be9eb3c2a19fb~mv2.jpg/v1/fill/w_172,h_169,al_c,lg_1,q_80/ME_edited.webp" />
 
 
 ### 
